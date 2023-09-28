@@ -1,4 +1,6 @@
-**I have worked as a Wissenschaftliche Hilfskraft at the University of Wuppertal. work in the domain of Natural Language Processing, text mining, and Mathematical Information Retrieval. I was actively involved as a HiWi in tasks in above mentioned domain. I like to describe them in two phases,**
+**I have worked as a Wissenschaftliche Hilfskraft at the University of Wuppertal. work in the domain of Natural Language Processing, text mining, and Mathematical Information Retrieval. 
+I was actively involved as a HiWi in tasks in above mentioned domain.
+I like to describe them in two phases,**
 
 ## Phase I
 
